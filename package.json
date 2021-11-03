@@ -23,6 +23,6 @@
     "lodash": "^4.17.15",
     "mongoose": "^5.7.7",
     "nodemon": "^1.19.4",
-    "validator": "^11.1.0"
+    "validator": "^13.7.0"
   }
 }
